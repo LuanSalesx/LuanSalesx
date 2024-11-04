@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A2FF86&height=120&section=header"/>
+ 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+My+name+is+Luan;I+am+18+years+old;Knowledge+of+HTML%2C+CSS%2C+JavaScript+;and+Python" alt="Typing SVG" /></a>
 
 ## 📞 &nbsp;Contact
